@@ -104,6 +104,7 @@
 		<InheritedFromParentAgentType>true</InheritedFromParentAgentType>
 	</ScaleRuler>
 	<CurrentLevel>1794415991592</CurrentLevel>
+	<Variables xmlns:al="http://anylogic.com"/>
 	<EmbeddedObjects xmlns:al="http://anylogic.com"/>
 	<Presentation>
 		<Level>

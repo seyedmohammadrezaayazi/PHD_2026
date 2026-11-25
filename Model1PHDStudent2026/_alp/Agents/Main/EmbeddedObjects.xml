@@ -454,6 +454,9 @@
 		<Parameters>
 			<Parameter>
 				<Name><![CDATA[capacity]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[200]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[maximumCapacity]]></Name>
@@ -1193,7 +1196,7 @@
 			<Parameter>
 				<Name><![CDATA[capacity]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[2]]></Code>
+					<Code><![CDATA[NumberOfDr]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -1442,7 +1445,7 @@
 			<Parameter>
 				<Name><![CDATA[capacity]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[2]]></Code>
+					<Code><![CDATA[250]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
@@ -1704,6 +1707,9 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[capacity]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[250]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[maximumCapacity]]></Name>
@@ -2806,7 +2812,7 @@
 			<Parameter>
 				<Name><![CDATA[capacity]]></Name>
 				<Value Class="CodeValue">
-					<Code><![CDATA[2]]></Code>
+					<Code><![CDATA[NumberOfDr]]></Code>
 				</Value>
 			</Parameter>
 			<Parameter>
